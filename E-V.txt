@@ -1,0 +1,4 @@
+do:lam
+cat:con meo
+who:ai
+dog:con cho, con cun,con cay

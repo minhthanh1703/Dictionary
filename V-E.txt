@@ -1,0 +1,6 @@
+﻿va:and
+truoc:before,in front of,previously
+con nguoi:human
+cat:meo,con meo
+vu khi:arms,weapons
+va:and
